@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 /* ========================================
    MUSICOS FAVORITOS - Premium Design
    ======================================== */
 
+=======
+>>>>>>> main
 :root {
   --bg-primary: #0a0a0f;
   --bg-secondary: #12121a;
@@ -39,10 +42,13 @@ body {
   line-height: 1.6;
 }
 
+<<<<<<< HEAD
 /* ========================================
    BACKGROUND EFFECTS
    ======================================== */
 
+=======
+>>>>>>> main
 .app {
   position: relative;
   min-height: 100vh;
@@ -107,10 +113,13 @@ body {
   }
 }
 
+<<<<<<< HEAD
 /* ========================================
    HEADER
    ======================================== */
 
+=======
+>>>>>>> main
 .header {
   position: fixed;
   top: 0;
@@ -185,10 +194,13 @@ body {
   width: 100%;
 }
 
+<<<<<<< HEAD
 /* ========================================
    HERO SECTION
    ======================================== */
 
+=======
+>>>>>>> main
 .hero {
   min-height: 100vh;
   display: flex;
@@ -254,6 +266,7 @@ body {
   letter-spacing: 0.1em;
 }
 
+<<<<<<< HEAD
 .hero-visual {
   position: relative;
   width: 400px;
@@ -280,6 +293,8 @@ body {
    ARTISTS SECTION
    ======================================== */
 
+=======
+>>>>>>> main
 .artists-section {
   padding: 4rem;
   position: relative;
@@ -311,10 +326,13 @@ body {
   margin: 0 auto;
 }
 
+<<<<<<< HEAD
 /* ========================================
    ARTIST CARD
    ======================================== */
 
+=======
+>>>>>>> main
 .artist-card {
   position: relative;
   background: var(--bg-card);
@@ -433,10 +451,13 @@ body {
   opacity: 1;
 }
 
+<<<<<<< HEAD
 /* ========================================
    FOOTER
    ======================================== */
 
+=======
+>>>>>>> main
 .footer {
   text-align: center;
   padding: 3rem;
@@ -448,10 +469,13 @@ body {
   background: rgba(10, 10, 15, 0.5);
 }
 
+<<<<<<< HEAD
 /* ========================================
    RESPONSIVE DESIGN
    ======================================== */
 
+=======
+>>>>>>> main
 @media (max-width: 1200px) {
   .artists-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -477,10 +501,13 @@ body {
     justify-content: center;
   }
 
+<<<<<<< HEAD
   .hero-visual {
     display: none;
   }
 
+=======
+>>>>>>> main
   .header {
     padding: 1rem 2rem;
   }
@@ -531,6 +558,7 @@ body {
   }
 }
 
+<<<<<<< HEAD
 /* ========================================
    ANIMATIONS
    ======================================== */
@@ -556,6 +584,8 @@ body {
 }
 
 /* Scrollbar Styling */
+=======
+>>>>>>> main
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -573,7 +603,10 @@ body {
   background: rgba(255, 255, 255, 0.2);
 }
 
+<<<<<<< HEAD
 /* Selection */
+=======
+>>>>>>> main
 ::selection {
   background: rgba(102, 126, 234, 0.3);
   color: white;
